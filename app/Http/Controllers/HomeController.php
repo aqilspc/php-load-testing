@@ -21,6 +21,6 @@ class HomeController extends Controller
 
     public function loadTesting()
     {
-        
+        return vide('dashboa');
     }
 }
